@@ -1,13 +1,80 @@
 {
-  "lastUpdated": "2026-08-29T11:34:02.902Z",
+  "lastUpdated": "2026-08-29T11:39:58.546Z",
   "status": "online",
-  "source": "Automated GitHub Actions Data Sync",
+  "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
-    "institutesMonitored": 8,
-    "activeInternshipTracks": 14,
+    "institutesMonitored": 16,
+    "activeInternshipTracks": 18,
     "bioDatabasesLinked": 5,
     "cloudPipelinesConfigured": 4
   },
+  "companyCareerPortals": [
+    {
+      "name": "PopVax",
+      "focus": "mRNA Vaccine Design & Computational Immunology",
+      "location": "Hyderabad / Remote",
+      "careerUrl": "https://popvax.com/careers",
+      "tag": "Deep Learning / Transformers",
+      "stipendRange": "₹35k - ₹50k/mo"
+    },
+    {
+      "name": "Strand Life Sciences",
+      "focus": "Genomic Variant Analytics & NGS Software Engineering",
+      "location": "Bengaluru",
+      "careerUrl": "https://strandls.com/careers/",
+      "tag": "Distributed Systems / Cloud",
+      "stipendRange": "₹30k - ₹40k/mo"
+    },
+    {
+      "name": "Elucidata",
+      "focus": "Biomedical Data Engineering & Multi-Omics (Polly)",
+      "location": "Delhi NCR / Bengaluru / Remote",
+      "careerUrl": "https://elucidata.io/careers",
+      "tag": "Data Platforms / Python",
+      "stipendRange": "₹35k - ₹45k/mo"
+    },
+    {
+      "name": "MedGenome Labs",
+      "focus": "Clinical Sequencing & Cloud Genomics Pipelines",
+      "location": "Bengaluru",
+      "careerUrl": "https://www.medgenome.com/careers/",
+      "tag": "AWS / Nextflow / WES",
+      "stipendRange": "₹25k - ₹35k/mo"
+    },
+    {
+      "name": "Bugworks Research",
+      "focus": "AI/ML for Antibacterial Drug Discovery",
+      "location": "Bengaluru",
+      "careerUrl": "https://bugworksresearch.com/",
+      "tag": "Cheminformatics / GNNs",
+      "stipendRange": "₹28k - ₹38k/mo"
+    },
+    {
+      "name": "Pandorum Technologies",
+      "focus": "AI & Biomaterials Modeling / 3D Bioprinting",
+      "location": "Bengaluru",
+      "careerUrl": "https://pandorumtechnologies.com/careers/",
+      "tag": "Computer Vision / 3D Simulation",
+      "stipendRange": "₹25k - ₹35k/mo"
+    },
+    {
+      "name": "Premas Biotech",
+      "focus": "Structural Modeling & Bioprocess Analytics",
+      "location": "Gurugram (Delhi NCR)",
+      "careerUrl": "https://www.premasbiotech.com/careers/",
+      "tag": "Predictive ML / Telemetry",
+      "stipendRange": "₹22k - ₹30k/mo"
+    },
+    {
+      "name": "Mapmygenome",
+      "focus": "Preventive Genomics & Consumer Health Dashboards",
+      "location": "Hyderabad",
+      "careerUrl": "https://mapmygenome.in/careers",
+      "tag": "Full-Stack / Bio-Viz",
+      "stipendRange": "₹20k - ₹25k/mo"
+    }
+  ],
+  "liveJobsAndInternships": [],
   "liveNewsAndUpdates": [
     {
       "id": "epmc-42571076",
@@ -61,6 +128,24 @@
       "journal": "Virulence",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/21505594.2026.2697085",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42341860",
+      "title": "In vitro and in silico evaluation of the anticancer potential of ethanolic seed extract of Bryonia laciniosa against colorectal and hepatocellular cancer.",
+      "authors": "Verma D, Tiwari M.",
+      "journal": "J Ethnopharmacol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.jep.2026.122039",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42334890",
+      "title": "The relationship between age of first exposure and posttraumatic symptoms: results from the global psychotrauma screen.",
+      "authors": "Jenkins D, Pirro T, Giannouli V, Wadji DL, Seedat S, Spies G, Martin-Sölch C.",
+      "journal": "Eur J Psychotraumatol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/20008066.2026.2672797",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]

@@ -46,7 +46,10 @@ jobs:
             npm install
           fi
 
-      - name: Fetch Live Data from External Biological Repositories
+      - name: Fetch Live Data from External Biological Repositories & Job Portals
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: node scripts/fetch_live_data.js
 
       - name: Commit and Push Updated Data (if changed)
