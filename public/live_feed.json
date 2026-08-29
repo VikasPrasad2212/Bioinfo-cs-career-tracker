@@ -1,0 +1,67 @@
+{
+  "lastUpdated": "2026-08-29T11:11:42.384Z",
+  "status": "online",
+  "source": "Automated GitHub Actions Data Sync",
+  "stats": {
+    "institutesMonitored": 8,
+    "activeInternshipTracks": 14,
+    "bioDatabasesLinked": 5,
+    "cloudPipelinesConfigured": 4
+  },
+  "liveNewsAndUpdates": [
+    {
+      "id": "epmc-42571076",
+      "title": "Graph enhanced ContextFusion-EmoNet (CFEN): integrating facial, postural, and environmental cues for emotion recognition in dynamic video scenes.",
+      "authors": "Gupta N, Priya RV, Verma CK.",
+      "journal": "Cogn Neurodyn",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1007/s11571-026-10514-3",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42566449",
+      "title": "Childhood emotional maltreatment and trauma-related outcomes: a systematic review and multilevel meta-analysis.",
+      "authors": "Hashim M, Sheel H, Rahman B, Altaf A, Galán CA, Halligan SL, Rehman U, Seedat S, Del Toro J, Fares-Otero NE.",
+      "journal": "Eur J Psychotraumatol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/20008066.2026.2694185",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42533524",
+      "title": "Phenylalanine coordinates antioxidant responses and ion homeostasis to enhance salinity tolerance in maize.",
+      "authors": "Ghafoor S, Ahmad M, Ishfaq N, Ul Din K, Abdul Khaliq A, El-Beltagi HS, Zulfiqar U, Rehman A, El-Shaboury GA, Alasmari A, Khudiyev O, Shah MA.",
+      "journal": "Plant Signal Behav",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/15592324.2026.2709225",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42524160",
+      "title": "Melting Mountains, Shifting Microbiomes: Reconsidering Microbial Roles in Post-Glacial Ecosystem Services.",
+      "authors": "Kumar A, Dahal N, Lamichhaney S, Kumar R.",
+      "journal": "Curr Opin Environ Sustain",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.cosust.2026.101700",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42444491",
+      "title": "Distinct trajectories of urbanization shape the human gut microbiome across South Asia.",
+      "authors": "Ramachandran SL, Pasupuleti N, Abdill RJ, Adikari G, Ahlawat B, Blekhman R, Burgo V, Davenport ER, Dwivedi A, Gupta S, Ijinu TP, Jamir T, Karu R, Kaushik A, Komarabathini JM, Laithangpuii, Lalzarliana J, Norbu T, Pautu T, Pawar K, Raman AS, Ramaswamy R, Ranasinghe R, Rashmi, Sasidharan SP, Satheesh T, Shaji S, Shapiro JW, Singh E, Singson V, Sundararajan A, Kamani H T, Tetso D, Urban Aragon JA, Welikala AHJ, Yhome RR, Rai N, Raghavan M.",
+      "journal": "Gut Microbes",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/19490976.2026.2700042",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42374704",
+      "title": "Genomic epidemiology, evolution, and transmission dynamics of porcine sapelovirus associated with diarrheic piglets.",
+      "authors": "Li X, Ma XA, Wang X, Li Q, Yuan Q, Wang J, Bai H, Liu Y, Zhao F.",
+      "journal": "Virulence",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2697085",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { 
   Search, 
   Building2, 
@@ -18,7 +18,9 @@ import {
   ArrowRight,
   Info,
   Send,
-  Zap
+  Zap,
+  RefreshCw,
+  Rss
 } from 'lucide-react';
 import { InternshipOpportunity, OrgCategory, ApplicationStatus } from '../types';
 import { useTracker } from '../context/TrackerContext';
@@ -42,6 +44,24 @@ export const DirectoryView: React.FC<DirectoryViewProps> = ({
   const [selectedSkill, setSelectedSkill] = useState<string>('all');
   const [selectedWorkMode, setSelectedWorkMode] = useState<string>('all');
   const [addedModalOpp, setAddedModalOpp] = useState<InternshipOpportunity | null>(null);
+
+  // Live Sync metadata state
+  const [liveSyncInfo, setLiveSyncInfo] = useState<{
+    lastUpdated?: string;
+    status?: string;
+    liveNewsAndUpdates?: Array<{ title: string; doiUrl: string; journal: string; pubYear: string }>;
+  } | null>(null);
+
+  useEffect(() => {
+    fetch('./live_feed.json')
+      .then(res => res.ok ? res.json() : null)
+      .then(data => {
+        if (data) setLiveSyncInfo(data);
+      })
+      .catch(() => {
+        // Fallback gracefully
+      });
+  }, []);
 
   // Derive all unique skills and locations for filter pills
   const allSkills = useMemo(() => {
@@ -155,6 +175,29 @@ export const DirectoryView: React.FC<DirectoryViewProps> = ({
               <div className="text-xs text-slate-300">CS-Friendly Roles</div>
             </div>
           </div>
+        </div>
+      </div>
+
+      {/* Automated GitHub Actions Live Sync & Feed Banner */}
+      <div className="bg-emerald-950/40 border border-emerald-500/20 rounded-xl p-3.5 sm:p-4 flex flex-wrap items-center justify-between gap-3 text-xs">
+        <div className="flex items-center gap-2.5">
+          <span className="flex h-2.5 w-2.5 relative">
+            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+            <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+          </span>
+          <div>
+            <span className="font-bold text-slate-800">Automated Pipeline Sync:</span>{' '}
+            <span className="text-slate-600">
+              {liveSyncInfo?.lastUpdated
+                ? `Last synchronized with NCBI / Europe PMC repositories on ${new Date(liveSyncInfo.lastUpdated).toLocaleDateString()} at ${new Date(liveSyncInfo.lastUpdated).toLocaleTimeString()}`
+                : 'Auto-updating every 12 hours via GitHub Actions workflow'}
+            </span>
+          </div>
+        </div>
+
+        <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-emerald-100 text-emerald-800 font-semibold text-[11px]">
+          <Rss className="w-3 h-3" />
+          <span>Live Data Feed Active</span>
         </div>
       </div>
 
