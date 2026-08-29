@@ -1,0 +1,6 @@
+{
+  "name": "BioInfo CS Career & Internship Tracker",
+  "description": "Comprehensive bioinformatics internships and jobs hub for CS freshers in India, featuring live opportunity listings, application Kanban tracker, real-time deadline notifications, Gemini AI skill-gap analyzer, and interactive AI mock interview role-play prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
