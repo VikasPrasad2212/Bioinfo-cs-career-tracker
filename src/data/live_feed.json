@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T03:56:16.198Z",
+  "lastUpdated": "2026-09-03T16:11:23.943Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -77,6 +77,15 @@
   "liveJobsAndInternships": [],
   "liveNewsAndUpdates": [
     {
+      "id": "epmc-42684113",
+      "title": "Protective association of the <i>ELMO1</i> rs741301 variant against diabetes mellitus and diabetic nephropathy: a systematic meta-analysis of case-control studies. ",
+      "authors": "Thomas SM, Anilkumar AS, Veerabathiran R.",
+      "journal": "Ann Hum Biol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/03014460.2026.2723114",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42571076",
       "title": "Graph enhanced ContextFusion-EmoNet (CFEN): integrating facial, postural, and environmental cues for emotion recognition in dynamic video scenes.",
       "authors": "Gupta N, Priya RV, Verma CK.",
@@ -137,15 +146,6 @@
       "journal": "Gut Microbes",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/19490976.2026.2700042",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42374704",
-      "title": "Genomic epidemiology, evolution, and transmission dynamics of porcine sapelovirus associated with diarrheic piglets.",
-      "authors": "Li X, Ma XA, Wang X, Li Q, Yuan Q, Wang J, Bai H, Liu Y, Zhao F.",
-      "journal": "Virulence",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2697085",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
