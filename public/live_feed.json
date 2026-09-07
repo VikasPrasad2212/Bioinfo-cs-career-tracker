@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T15:16:00.649Z",
+  "lastUpdated": "2026-09-07T03:58:15.173Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -86,6 +86,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42679600",
+      "title": "Immunopathogenesis of TB-HIV Co-Infection: Mechanisms of Dual Immune Suppression and Viral-Bacterial Synergy.",
+      "authors": "Kumar M, Bhowmik R, Kumar S, Topno RK, Sahoo GC, Kumar SK, Salo-Ahen OMH, Aspatwar A.",
+      "journal": "Virology",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.virol.2026.111054",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42571076",
       "title": "Graph enhanced ContextFusion-EmoNet (CFEN): integrating facial, postural, and environmental cues for emotion recognition in dynamic video scenes.",
       "authors": "Gupta N, Priya RV, Verma CK.",
@@ -137,15 +146,6 @@
       "journal": "Virulence",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/21505594.2026.2711521",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42524160",
-      "title": "Melting Mountains, Shifting Microbiomes: Reconsidering Microbial Roles in Post-Glacial Ecosystem Services.",
-      "authors": "Kumar A, Dahal N, Lamichhaney S, Kumar R.",
-      "journal": "Curr Opin Environ Sustain",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.cosust.2026.101700",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
