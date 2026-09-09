@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T04:06:43.998Z",
+  "lastUpdated": "2026-09-09T16:19:30.101Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,6 +95,24 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42602780",
+      "title": "Insights into glucomoringin biosynthesis in moringa sprouts through integrated transcriptomic and metabolomic analyses.",
+      "authors": "Liu Y, Huang D, Liu SQ, Lu Y.",
+      "journal": "Food Chem (Oxf)",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.fochms.2026.100444",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42595700",
+      "title": "CRISPR/Cas-based genome editing for enhancing grain quality traits in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.).",
+      "authors": "Mani M, Poonguzhali S, Baghyalakshmi K.",
+      "journal": "Plant Signal Behav",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/15592324.2026.2713868",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42571076",
       "title": "Graph enhanced ContextFusion-EmoNet (CFEN): integrating facial, postural, and environmental cues for emotion recognition in dynamic video scenes.",
       "authors": "Gupta N, Priya RV, Verma CK.",
@@ -128,24 +146,6 @@
       "journal": "One Health",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.onehlt.2026.101521",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42537628",
-      "title": "Pathogenicity and virulence of &lt;i&gt;Candida auris&lt;/i&gt;.",
-      "authors": "Phan-Canh T, Seiser S, Chauhan M, Kuchler K, Chauhan N, Elbe-Bürger A.",
-      "journal": "Virulence",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2707827",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42533524",
-      "title": "Phenylalanine coordinates antioxidant responses and ion homeostasis to enhance salinity tolerance in maize.",
-      "authors": "Ghafoor S, Ahmad M, Ishfaq N, Ul Din K, Abdul Khaliq A, El-Beltagi HS, Zulfiqar U, Rehman A, El-Shaboury GA, Alasmari A, Khudiyev O, Shah MA.",
-      "journal": "Plant Signal Behav",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/15592324.2026.2709225",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
