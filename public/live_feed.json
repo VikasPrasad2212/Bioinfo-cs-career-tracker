@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T16:23:59.045Z",
+  "lastUpdated": "2026-09-09T04:06:43.998Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -113,6 +113,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42555543",
+      "title": "Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease.",
+      "authors": "Aida-Ficken V, Sorvillo TE, Karaaslan E, Davies KA, Bergeron É, Welch SR, Spengler JR.",
+      "journal": "Virulence",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2709250",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42541310",
       "title": "&lt;i&gt;Parahenipavirus langyaense&lt;/i&gt; (Langya virus): Spillover ecology, noncanonical receptor-mediated entry, and future control strategies.",
       "authors": "Shen L, Tong Y, Chai W, Sun J, Zhao J, Yin L, Yang Y, Wang C, Tan W, Zhang J.",
@@ -137,15 +146,6 @@
       "journal": "Plant Signal Behav",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/15592324.2026.2709225",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42528375",
-      "title": "Cross-host transmission of &lt;i&gt;Riemerella anatipestifer&lt;/i&gt; to chickens: Genomic evolution and identification of the novel &lt;i&gt;vapX&lt;/i&gt;-like-&lt;i&gt;vapD&lt;/i&gt; toxin-antitoxin system.",
-      "authors": "Meng F, Li R, Yu Y, Zhang X, Dai W, Cui X, Sun L, Lang F, Yang L, Cheng Z.",
-      "journal": "Virulence",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2711521",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
