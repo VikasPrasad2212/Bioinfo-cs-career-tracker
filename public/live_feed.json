@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T16:19:30.101Z",
+  "lastUpdated": "2026-09-10T04:04:38.978Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -77,6 +77,33 @@
   "liveJobsAndInternships": [],
   "liveNewsAndUpdates": [
     {
+      "id": "epmc-42379463",
+      "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
+      "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121208",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42362136",
+      "title": "Quality assessment, prognostic factors, and biomarkers for brain tumor analysis: a comprehensive systematic review.",
+      "authors": "Balaji P, Devasena D.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121203",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42288272",
+      "title": "Multi-omic biomarkers in cardiovascular disease: Discovery to clinical translation.",
+      "authors": "AlRamadneh TN, Abdulsahib WK, Gajjar TB, Hanumanthayya M, Shukla SK, Panigrahi R, Bainsal N, Rizaev J, Abduvoyitov B, Polatova D.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121182",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42684113",
       "title": "Protective association of the &lt;i&gt;ELMO1&lt;/i&gt; rs741301 variant against diabetes mellitus and diabetic nephropathy: a systematic meta-analysis of case-control studies.",
       "authors": "Thomas SM, Anilkumar AS, Veerabathiran R.",
@@ -95,6 +122,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42606349",
+      "title": "Epidemiological characteristics and structural-functional implications of spike protein variations in a bovine coronavirus isolate from diarrheic calves.",
+      "authors": "Teng F, Li X, Zhao H, Ma Y, Wang Y, Chen M, Wu W, Xiao T, Wei Y, Gao S, Li X, Zhu C, Li G, Jiang Y, Li J, Cui W, Qiao X.",
+      "journal": "Virulence",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2712736",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42602780",
       "title": "Insights into glucomoringin biosynthesis in moringa sprouts through integrated transcriptomic and metabolomic analyses.",
       "authors": "Liu Y, Huang D, Liu SQ, Lu Y.",
@@ -110,42 +146,6 @@
       "journal": "Plant Signal Behav",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/15592324.2026.2713868",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42571076",
-      "title": "Graph enhanced ContextFusion-EmoNet (CFEN): integrating facial, postural, and environmental cues for emotion recognition in dynamic video scenes.",
-      "authors": "Gupta N, Priya RV, Verma CK.",
-      "journal": "Cogn Neurodyn",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1007/s11571-026-10514-3",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42566449",
-      "title": "Childhood emotional maltreatment and trauma-related outcomes: a systematic review and multilevel meta-analysis.",
-      "authors": "Hashim M, Sheel H, Rahman B, Altaf A, Galán CA, Halligan SL, Rehman U, Seedat S, Del Toro J, Fares-Otero NE.",
-      "journal": "Eur J Psychotraumatol",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/20008066.2026.2694185",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42555543",
-      "title": "Pathogenicity and virulence of Crimean-Congo hemorrhagic fever virus: From enzootic maintenance to severe human disease.",
-      "authors": "Aida-Ficken V, Sorvillo TE, Karaaslan E, Davies KA, Bergeron É, Welch SR, Spengler JR.",
-      "journal": "Virulence",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2709250",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42541310",
-      "title": "&lt;i&gt;Parahenipavirus langyaense&lt;/i&gt; (Langya virus): Spillover ecology, noncanonical receptor-mediated entry, and future control strategies.",
-      "authors": "Shen L, Tong Y, Chai W, Sun J, Zhao J, Yin L, Yang Y, Wang C, Tan W, Zhang J.",
-      "journal": "One Health",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.onehlt.2026.101521",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
