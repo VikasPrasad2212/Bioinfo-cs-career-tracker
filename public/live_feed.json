@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T04:04:38.978Z",
+  "lastUpdated": "2026-09-10T16:10:10.723Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -122,6 +122,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42635105",
+      "title": "Reimagining research equity and beneficial community impact: reflections from the GSK Africa Open Lab inaugural cohort.",
+      "authors": "Afrane AKA, Lartey BL, Adegbola A, Mahamar A, Adankwah E, Kering K, Agbo Achimi Abdul JBP, Tumuhamye J, Tukwasibwe S, Etuk V, Traore O.",
+      "journal": "Glob Health Action",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/16549716.2026.2718934",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42606349",
       "title": "Epidemiological characteristics and structural-functional implications of spike protein variations in a bovine coronavirus isolate from diarrheic calves.",
       "authors": "Teng F, Li X, Zhao H, Ma Y, Wang Y, Chen M, Wu W, Xiao T, Wei Y, Gao S, Li X, Zhu C, Li G, Jiang Y, Li J, Cui W, Qiao X.",
@@ -137,15 +146,6 @@
       "journal": "Food Chem (Oxf)",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.fochms.2026.100444",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42595700",
-      "title": "CRISPR/Cas-based genome editing for enhancing grain quality traits in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.).",
-      "authors": "Mani M, Poonguzhali S, Baghyalakshmi K.",
-      "journal": "Plant Signal Behav",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/15592324.2026.2713868",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
