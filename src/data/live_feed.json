@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T04:21:43.758Z",
+  "lastUpdated": "2026-09-15T16:41:00.400Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -75,5 +75,78 @@
     }
   ],
   "liveJobsAndInternships": [],
-  "liveNewsAndUpdates": []
+  "liveNewsAndUpdates": [
+    {
+      "id": "epmc-42379463",
+      "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
+      "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121208",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42362136",
+      "title": "Quality assessment, prognostic factors, and biomarkers for brain tumor analysis: a comprehensive systematic review.",
+      "authors": "Balaji P, Devasena D.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121203",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42288272",
+      "title": "Multi-omic biomarkers in cardiovascular disease: Discovery to clinical translation.",
+      "authors": "AlRamadneh TN, Abdulsahib WK, Gajjar TB, Hanumanthayya M, Shukla SK, Panigrahi R, Bainsal N, Rizaev J, Abduvoyitov B, Polatova D.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121182",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42684113",
+      "title": "Protective association of the &lt;i&gt;ELMO1&lt;/i&gt; rs741301 variant against diabetes mellitus and diabetic nephropathy: a systematic meta-analysis of case-control studies.",
+      "authors": "Thomas SM, Anilkumar AS, Veerabathiran R.",
+      "journal": "Ann Hum Biol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/03014460.2026.2723114",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42679600",
+      "title": "Immunopathogenesis of TB-HIV Co-Infection: Mechanisms of Dual Immune Suppression and Viral-Bacterial Synergy.",
+      "authors": "Kumar M, Bhowmik R, Kumar S, Topno RK, Sahoo GC, Kumar SK, Salo-Ahen OMH, Aspatwar A.",
+      "journal": "Virology",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.virol.2026.111054",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42669232",
+      "title": "Phytochemical profiling and mechanistic insights into the anxiolytic potential of Sphaeranthus indicus Linn.: A network pharmacology, molecular docking and simulation approach.",
+      "authors": "Joshi S, Koulgi S, Aher M, Saxena S, Joshi M, Ghildiyal S, Nesari TM.",
+      "journal": "Comput Biol Chem",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109357",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42659949",
+      "title": "Rule-based labels versus experimental endpoints: A systematic assessment of generalisation in QSAR models for ADMET prediction using fruit phytochemicals.",
+      "authors": "Prabhakar S, Jayagopal P, Blessy JJ.",
+      "journal": "Comput Biol Chem",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109356",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42659948",
+      "title": "Comparative genomics of ESKAPE pathogen species: Integrating pan-genome architecture, antimicrobial resistance, and virulence factor repertoires.",
+      "authors": "Singh S, Kumar P.",
+      "journal": "Comput Biol Chem",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109359",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    }
+  ]
 }
