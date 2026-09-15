@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T17:57:43.878Z",
+  "lastUpdated": "2026-09-15T04:21:43.758Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -75,78 +75,5 @@
     }
   ],
   "liveJobsAndInternships": [],
-  "liveNewsAndUpdates": [
-    {
-      "id": "epmc-42379463",
-      "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
-      "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
-      "journal": "Clin Chim Acta",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121208",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42362136",
-      "title": "Quality assessment, prognostic factors, and biomarkers for brain tumor analysis: a comprehensive systematic review.",
-      "authors": "Balaji P, Devasena D.",
-      "journal": "Clin Chim Acta",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121203",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42288272",
-      "title": "Multi-omic biomarkers in cardiovascular disease: Discovery to clinical translation.",
-      "authors": "AlRamadneh TN, Abdulsahib WK, Gajjar TB, Hanumanthayya M, Shukla SK, Panigrahi R, Bainsal N, Rizaev J, Abduvoyitov B, Polatova D.",
-      "journal": "Clin Chim Acta",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121182",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42684113",
-      "title": "Protective association of the &lt;i&gt;ELMO1&lt;/i&gt; rs741301 variant against diabetes mellitus and diabetic nephropathy: a systematic meta-analysis of case-control studies.",
-      "authors": "Thomas SM, Anilkumar AS, Veerabathiran R.",
-      "journal": "Ann Hum Biol",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/03014460.2026.2723114",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42679600",
-      "title": "Immunopathogenesis of TB-HIV Co-Infection: Mechanisms of Dual Immune Suppression and Viral-Bacterial Synergy.",
-      "authors": "Kumar M, Bhowmik R, Kumar S, Topno RK, Sahoo GC, Kumar SK, Salo-Ahen OMH, Aspatwar A.",
-      "journal": "Virology",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.virol.2026.111054",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42635105",
-      "title": "Reimagining research equity and beneficial community impact: reflections from the GSK Africa Open Lab inaugural cohort.",
-      "authors": "Afrane AKA, Lartey BL, Adegbola A, Mahamar A, Adankwah E, Kering K, Agbo Achimi Abdul JBP, Tumuhamye J, Tukwasibwe S, Etuk V, Traore O.",
-      "journal": "Glob Health Action",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/16549716.2026.2718934",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42606349",
-      "title": "Epidemiological characteristics and structural-functional implications of spike protein variations in a bovine coronavirus isolate from diarrheic calves.",
-      "authors": "Teng F, Li X, Zhao H, Ma Y, Wang Y, Chen M, Wu W, Xiao T, Wei Y, Gao S, Li X, Zhu C, Li G, Jiang Y, Li J, Cui W, Qiao X.",
-      "journal": "Virulence",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2712736",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42602780",
-      "title": "Insights into glucomoringin biosynthesis in moringa sprouts through integrated transcriptomic and metabolomic analyses.",
-      "authors": "Liu Y, Huang D, Liu SQ, Lu Y.",
-      "journal": "Food Chem (Oxf)",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.fochms.2026.100444",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    }
-  ]
+  "liveNewsAndUpdates": []
 }
