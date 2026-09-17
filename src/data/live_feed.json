@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T04:24:07.864Z",
+  "lastUpdated": "2026-09-17T16:39:54.081Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -113,6 +113,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42723500",
+      "title": "Diagnostic accuracy of AI-augmented renal ultrasound for degenerative kidney disorders: a systematic review and meta-analysis.",
+      "authors": "Elhaie M, Koozari A, Nasab AS, Dehaghi FT.",
+      "journal": "Future Sci OA",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/20565623.2026.2730711",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42716909",
       "title": "HyLnc: a hybrid deep learning and feature-based approach for long non-coding RNA prediction.",
       "authors": "Venkatesan A, Sinha P, Basak J, Bahadur RP.",
@@ -137,15 +146,6 @@
       "journal": "Virology",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.virol.2026.111054",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42669232",
-      "title": "Phytochemical profiling and mechanistic insights into the anxiolytic potential of Sphaeranthus indicus Linn.: A network pharmacology, molecular docking and simulation approach.",
-      "authors": "Joshi S, Koulgi S, Aher M, Saxena S, Joshi M, Ghildiyal S, Nesari TM.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109357",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
