@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T16:34:21.232Z",
+  "lastUpdated": "2026-09-17T04:24:07.864Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,24 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42741480",
+      "title": "Integrative post-GWAS analysis prioritizes immune regulatory pathways and candidate effector signals in systemic lupus erythematosus.",
+      "authors": "Modhukur V, Khatun M, Patel N, S SL, Lingasamy P, Salumets A.",
+      "journal": "J Transl Autoimmun",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.jtauto.2026.100399",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42716909",
+      "title": "HyLnc: a hybrid deep learning and feature-based approach for long non-coding RNA prediction.",
+      "authors": "Venkatesan A, Sinha P, Basak J, Bahadur RP.",
+      "journal": "RNA Biol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/15476286.2026.2731913",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42684113",
       "title": "Protective association of the &lt;i&gt;ELMO1&lt;/i&gt; rs741301 variant against diabetes mellitus and diabetic nephropathy: a systematic meta-analysis of case-control studies.",
       "authors": "Thomas SM, Anilkumar AS, Veerabathiran R.",
@@ -128,24 +146,6 @@
       "journal": "Comput Biol Chem",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109357",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42659949",
-      "title": "Rule-based labels versus experimental endpoints: A systematic assessment of generalisation in QSAR models for ADMET prediction using fruit phytochemicals.",
-      "authors": "Prabhakar S, Jayagopal P, Blessy JJ.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109356",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42659948",
-      "title": "Comparative genomics of ESKAPE pathogen species: Integrating pan-genome architecture, antimicrobial resistance, and virulence factor repertoires.",
-      "authors": "Singh S, Kumar P.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109359",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
