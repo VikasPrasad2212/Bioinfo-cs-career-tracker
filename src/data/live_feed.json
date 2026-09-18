@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T04:07:55.984Z",
+  "lastUpdated": "2026-09-18T16:11:03.035Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -113,6 +113,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42740795",
+      "title": "Base editing rescues a hereditary motor neuron disease in mouse and patient-derived iPSC organoid models.",
+      "authors": "Imamura K, Yoshioka S, Kamizato K, Oki R, Hioki H, Tsukita K, Inoue I, Shimizu R, Takiguchi M, Sakasai T, Okusa A, Shibukawa R, Niki T, Sakurai S, Okunomiya T, Kondo T, Kato T, Miyanohara A, Kakinohana M, Yamamoto T, Marsala M, Nishida K, Izumi Y, Inoue H.",
+      "journal": "Mol Ther Adv",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.omta.2026.201835",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42723500",
       "title": "Diagnostic accuracy of AI-augmented renal ultrasound for degenerative kidney disorders: a systematic review and meta-analysis.",
       "authors": "Elhaie M, Koozari A, Nasab AS, Dehaghi FT.",
@@ -137,15 +146,6 @@
       "journal": "Ann Hum Biol",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/03014460.2026.2723114",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42679600",
-      "title": "Immunopathogenesis of TB-HIV Co-Infection: Mechanisms of Dual Immune Suppression and Viral-Bacterial Synergy.",
-      "authors": "Kumar M, Bhowmik R, Kumar S, Topno RK, Sahoo GC, Kumar SK, Salo-Ahen OMH, Aspatwar A.",
-      "journal": "Virology",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.virol.2026.111054",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
