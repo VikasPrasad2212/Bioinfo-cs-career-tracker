@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T04:04:31.422Z",
+  "lastUpdated": "2026-09-19T15:42:54.099Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42757094",
+      "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
+      "authors": "Watt J, Roth C, Huber I, Hall AS, Singh MK, Micheva-Viteva S, Sanbonmatsu KY, Starkenburg SR, Steadman CR.",
+      "journal": "Biochem Biophys Rep",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102789",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42741480",
       "title": "Integrative post-GWAS analysis prioritizes immune regulatory pathways and candidate effector signals in systemic lupus erythematosus.",
       "authors": "Modhukur V, Khatun M, Patel N, S SL, Lingasamy P, Salumets A.",
@@ -137,15 +146,6 @@
       "journal": "RNA Biol",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/15476286.2026.2731913",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42684113",
-      "title": "Protective association of the &lt;i&gt;ELMO1&lt;/i&gt; rs741301 variant against diabetes mellitus and diabetic nephropathy: a systematic meta-analysis of case-control studies.",
-      "authors": "Thomas SM, Anilkumar AS, Veerabathiran R.",
-      "journal": "Ann Hum Biol",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/03014460.2026.2723114",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
