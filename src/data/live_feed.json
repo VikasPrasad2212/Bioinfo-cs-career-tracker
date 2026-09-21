@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T04:21:41.187Z",
+  "lastUpdated": "2026-09-21T18:05:58.105Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42765067",
+      "title": "Transcriptomic trajectory of hepatocyte ballooning reveals a lipotoxic point of no return and initiates oncogenic regulatory rewiring in MASLD. ",
+      "authors": "Ganguly D, Mondal B, Das S, Dey I, Mandal A, Ghosh T, Deo M, Ahmed M, Banerjee S, Chatterjee A, Basu P.",
+      "journal": "Biochem Biophys Rep",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102785",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42757094",
       "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
       "authors": "Watt J, Roth C, Huber I, Hall AS, Singh MK, Micheva-Viteva S, Sanbonmatsu KY, Starkenburg SR, Steadman CR.",
@@ -137,15 +146,6 @@
       "journal": "Future Sci OA",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/20565623.2026.2730711",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42716909",
-      "title": "HyLnc: a hybrid deep learning and feature-based approach for long non-coding RNA prediction.",
-      "authors": "Venkatesan A, Sinha P, Basak J, Bahadur RP.",
-      "journal": "RNA Biol",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/15476286.2026.2731913",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
