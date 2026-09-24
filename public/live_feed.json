@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T04:10:00.615Z",
+  "lastUpdated": "2026-09-24T16:53:43.998Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -75,5 +75,78 @@
     }
   ],
   "liveJobsAndInternships": [],
-  "liveNewsAndUpdates": []
+  "liveNewsAndUpdates": [
+    {
+      "id": "epmc-42379463",
+      "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
+      "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121208",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42362136",
+      "title": "Quality assessment, prognostic factors, and biomarkers for brain tumor analysis: a comprehensive systematic review.",
+      "authors": "Balaji P, Devasena D.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121203",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42288272",
+      "title": "Multi-omic biomarkers in cardiovascular disease: Discovery to clinical translation.",
+      "authors": "AlRamadneh TN, Abdulsahib WK, Gajjar TB, Hanumanthayya M, Shukla SK, Panigrahi R, Bainsal N, Rizaev J, Abduvoyitov B, Polatova D.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121182",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42765067",
+      "title": "Transcriptomic trajectory of hepatocyte ballooning reveals a lipotoxic point of no return and initiates oncogenic regulatory rewiring in MASLD.",
+      "authors": "Ganguly D, Mondal B, Das S, Dey I, Mandal A, Ghosh T, Deo M, Ahmed M, Banerjee S, Chatterjee A, Basu P.",
+      "journal": "Biochem Biophys Rep",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102785",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42757094",
+      "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
+      "authors": "Watt J, Roth C, Huber I, Hall AS, Singh MK, Micheva-Viteva S, Sanbonmatsu KY, Starkenburg SR, Steadman CR.",
+      "journal": "Biochem Biophys Rep",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102789",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42741480",
+      "title": "Integrative post-GWAS analysis prioritizes immune regulatory pathways and candidate effector signals in systemic lupus erythematosus.",
+      "authors": "Modhukur V, Khatun M, Patel N, S SL, Lingasamy P, Salumets A.",
+      "journal": "J Transl Autoimmun",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.jtauto.2026.100399",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42740795",
+      "title": "Base editing rescues a hereditary motor neuron disease in mouse and patient-derived iPSC organoid models.",
+      "authors": "Imamura K, Yoshioka S, Kamizato K, Oki R, Hioki H, Tsukita K, Inoue I, Shimizu R, Takiguchi M, Sakasai T, Okusa A, Shibukawa R, Niki T, Sakurai S, Okunomiya T, Kondo T, Kato T, Miyanohara A, Kakinohana M, Yamamoto T, Marsala M, Nishida K, Izumi Y, Inoue H.",
+      "journal": "Mol Ther Adv",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.omta.2026.201835",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42723500",
+      "title": "Diagnostic accuracy of AI-augmented renal ultrasound for degenerative kidney disorders: a systematic review and meta-analysis.",
+      "authors": "Elhaie M, Koozari A, Nasab AS, Dehaghi FT.",
+      "journal": "Future Sci OA",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/20565623.2026.2730711",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    }
+  ]
 }
