@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T04:47:30.618Z",
+  "lastUpdated": "2026-09-28T19:29:36.061Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42773079",
+      "title": "Post-graduate nephrology education in China: structure, workforce gaps, regional disparities, and the emerging role of critical care nephrology.",
+      "authors": "Wang Y, Sun J, Qing J, Yang S, Jiang X, Yang M, Zhang Z.",
+      "journal": "Ren Fail",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/0886022x.2026.2731711",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42765067",
       "title": "Transcriptomic trajectory of hepatocyte ballooning reveals a lipotoxic point of no return and initiates oncogenic regulatory rewiring in MASLD.",
       "authors": "Ganguly D, Mondal B, Das S, Dey I, Mandal A, Ghosh T, Deo M, Ahmed M, Banerjee S, Chatterjee A, Basu P.",
@@ -137,15 +146,6 @@
       "journal": "Mol Ther Adv",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.omta.2026.201835",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42723500",
-      "title": "Diagnostic accuracy of AI-augmented renal ultrasound for degenerative kidney disorders: a systematic review and meta-analysis.",
-      "authors": "Elhaie M, Koozari A, Nasab AS, Dehaghi FT.",
-      "journal": "Future Sci OA",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/20565623.2026.2730711",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
