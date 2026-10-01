@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T05:14:19.562Z",
+  "lastUpdated": "2026-10-01T18:17:26.141Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,24 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42801494",
+      "title": "Exploiting virulence determinants for precision management of melioidosis: A multi-omics roadmap from pathogenesis to point-of-care : A perspective review.",
+      "authors": "Wu H, Li S, Zhang P, Su Y, Huang T.",
+      "journal": "Virulence",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/21505594.2026.2732315",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42788881",
+      "title": "MicroRNA circuits and regulatory networks: emerging therapeutic paradigm.",
+      "authors": "Goswami S, Singh S.",
+      "journal": "RNA Biol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/15476286.2026.2731890",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42773079",
       "title": "Post-graduate nephrology education in China: structure, workforce gaps, regional disparities, and the emerging role of critical care nephrology.",
       "authors": "Wang Y, Sun J, Qing J, Yang S, Jiang X, Yang M, Zhang Z.",
@@ -128,24 +146,6 @@
       "journal": "Biochem Biophys Rep",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102789",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42741480",
-      "title": "Integrative post-GWAS analysis prioritizes immune regulatory pathways and candidate effector signals in systemic lupus erythematosus.",
-      "authors": "Modhukur V, Khatun M, Patel N, S SL, Lingasamy P, Salumets A.",
-      "journal": "J Transl Autoimmun",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.jtauto.2026.100399",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42740795",
-      "title": "Base editing rescues a hereditary motor neuron disease in mouse and patient-derived iPSC organoid models.",
-      "authors": "Imamura K, Yoshioka S, Kamizato K, Oki R, Hioki H, Tsukita K, Inoue I, Shimizu R, Takiguchi M, Sakasai T, Okusa A, Shibukawa R, Niki T, Sakurai S, Okunomiya T, Kondo T, Kato T, Miyanohara A, Kakinohana M, Yamamoto T, Marsala M, Nishida K, Izumi Y, Inoue H.",
-      "journal": "Mol Ther Adv",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.omta.2026.201835",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
