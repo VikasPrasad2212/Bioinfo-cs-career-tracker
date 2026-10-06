@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T05:02:23.244Z",
+  "lastUpdated": "2026-10-06T05:49:12.981Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,24 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42828109",
+      "title": "The evolutionary dynamics of human influenza B virus in Bangladesh, 2007-2025.",
+      "authors": "Islam S, Hasan M.",
+      "journal": "IJID Reg",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.ijregi.2026.100999",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42823380",
+      "title": "A selective inhibitor reveals roles for LONP1 in mitochondrial proteostasis and OXPHOS dependencies.",
+      "authors": "Szilagyi Z, Michon P, Pardo-Hernández C, Sãcultanu M, Miralles Fusté J, Griffin AM, Charifson PS, Phan C, Shi Y, Kern G, Martinez Botella G, Keating TA, Macao B, Larsson NG, Falkenberg M, Green J, Gustafsson CM.",
+      "journal": "Life Sci Alliance",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.26508/lsa.202503535",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42801494",
       "title": "Exploiting virulence determinants for precision management of melioidosis: A multi-omics roadmap from pathogenesis to point-of-care : A perspective review.",
       "authors": "Wu H, Li S, Zhang P, Su Y, Huang T.",
@@ -128,24 +146,6 @@
       "journal": "Ren Fail",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/0886022x.2026.2731711",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42765067",
-      "title": "Transcriptomic trajectory of hepatocyte ballooning reveals a lipotoxic point of no return and initiates oncogenic regulatory rewiring in MASLD.",
-      "authors": "Ganguly D, Mondal B, Das S, Dey I, Mandal A, Ghosh T, Deo M, Ahmed M, Banerjee S, Chatterjee A, Basu P.",
-      "journal": "Biochem Biophys Rep",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102785",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42757094",
-      "title": "AI-assisted Cryo-ET workflow for 3D visualization of chromatin during cellular differentiation.",
-      "authors": "Watt J, Roth C, Huber I, Hall AS, Singh MK, Micheva-Viteva S, Sanbonmatsu KY, Starkenburg SR, Steadman CR.",
-      "journal": "Biochem Biophys Rep",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.bbrep.2026.102789",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
