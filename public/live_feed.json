@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T05:49:12.981Z",
+  "lastUpdated": "2026-10-07T05:21:18.245Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42830996",
+      "title": "Chest wall pain as a late effect following radiotherapy for breast cancer: A systematic review of prevalence and risk factors. ",
+      "authors": "Durrant L, Harris R, Atkinson C, Faithfull S.",
+      "journal": "Tech Innov Patient Support Radiat Oncol",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.tipsro.2026.100433",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42828109",
       "title": "The evolutionary dynamics of human influenza B virus in Bangladesh, 2007-2025.",
       "authors": "Islam S, Hasan M.",
@@ -137,15 +146,6 @@
       "journal": "RNA Biol",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/15476286.2026.2731890",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42773079",
-      "title": "Post-graduate nephrology education in China: structure, workforce gaps, regional disparities, and the emerging role of critical care nephrology.",
-      "authors": "Wang Y, Sun J, Qing J, Yang S, Jiang X, Yang M, Zhang Z.",
-      "journal": "Ren Fail",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/0886022x.2026.2731711",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
