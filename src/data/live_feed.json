@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T05:22:56.665Z",
+  "lastUpdated": "2026-10-12T21:08:06.032Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-IND609550234",
+      "title": "Genetic Diversity and Motif Analysis of Coat Protein Gene of Potato Leafroll Virus Isolates across Agroclimatic Regions of Bihar, India",
+      "authors": "Ranjan T, Rajani K, Kumar R, Ansar M, Kumar V, Kumar M, Shamim M, Kumar A, Mohanty A.",
+      "journal": "Potato research.",
+      "pubYear": "2026",
+      "doiUrl": "https://europepmc.org/article/MED/IND609550234",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42830996",
       "title": "Chest wall pain as a late effect following radiotherapy for breast cancer: A systematic review of prevalence and risk factors. ",
       "authors": "Durrant L, Harris R, Atkinson C, Faithfull S.",
@@ -137,15 +146,6 @@
       "journal": "Virulence",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1080/21505594.2026.2732315",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42788881",
-      "title": "MicroRNA circuits and regulatory networks: emerging therapeutic paradigm.",
-      "authors": "Goswami S, Singh S.",
-      "journal": "RNA Biol",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/15476286.2026.2731890",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
