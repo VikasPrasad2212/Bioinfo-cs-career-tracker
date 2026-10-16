@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T04:01:11.917Z",
+  "lastUpdated": "2026-10-16T16:24:39.051Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -104,6 +104,33 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42850723",
+      "title": "A bibliometric analysis of trace elements and diabetic kidney disease: scientific hotspots and research evolution.",
+      "authors": "Sun X, Jiang Y, Wang H, Wang Z, Sun W, Liu Y.",
+      "journal": "Ren Fail",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1080/0886022x.2026.2736897",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42835776",
+      "title": "Interferon gamma and inflammatory response genes by weighted gene co-expression network analysis reveal significant associations with severe dengue infection in India.",
+      "authors": "Shamim U, Arora S, Maurya R, Soni J, Shukla R, Mehta P, Tarai B, Budhiraja S, Pandey R.",
+      "journal": "New Microbes New Infect",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.nmni.2026.101855",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42835315",
+      "title": "&lt;i&gt;Staphylococcus aureus&lt;/i&gt; in bovine intramammary infections: A global systematic review and meta-analysis of prevalence and antimicrobial resistance patterns.",
+      "authors": "Ahmed MJ, Rahman MA, Chalise R, Bhandari P, Bhuiyan MIH, Hossain MI, Kaderi IJ, Rahi MAI, Hossain D.",
+      "journal": "New Microbes New Infect",
+      "pubYear": "2026",
+      "doiUrl": "https://doi.org/10.1016/j.nmni.2026.101860",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-IND609550234",
       "title": "Genetic Diversity and Motif Analysis of Coat Protein Gene of Potato Leafroll Virus Isolates across Agroclimatic Regions of Bihar, India",
       "authors": "Ranjan T, Rajani K, Kumar R, Ansar M, Kumar V, Kumar M, Shamim M, Kumar A, Mohanty A.",
@@ -114,38 +141,11 @@
     },
     {
       "id": "epmc-42830996",
-      "title": "Chest wall pain as a late effect following radiotherapy for breast cancer: A systematic review of prevalence and risk factors. ",
+      "title": "Chest wall pain as a late effect following radiotherapy for breast cancer: A systematic review of prevalence and risk factors.",
       "authors": "Durrant L, Harris R, Atkinson C, Faithfull S.",
       "journal": "Tech Innov Patient Support Radiat Oncol",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.tipsro.2026.100433",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42828109",
-      "title": "The evolutionary dynamics of human influenza B virus in Bangladesh, 2007-2025.",
-      "authors": "Islam S, Hasan M.",
-      "journal": "IJID Reg",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.ijregi.2026.100999",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42823380",
-      "title": "A selective inhibitor reveals roles for LONP1 in mitochondrial proteostasis and OXPHOS dependencies.",
-      "authors": "Szilagyi Z, Michon P, Pardo-Hernández C, Sãcultanu M, Miralles Fusté J, Griffin AM, Charifson PS, Phan C, Shi Y, Kern G, Martinez Botella G, Keating TA, Macao B, Larsson NG, Falkenberg M, Green J, Gustafsson CM.",
-      "journal": "Life Sci Alliance",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.26508/lsa.202503535",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42801494",
-      "title": "Exploiting virulence determinants for precision management of melioidosis: A multi-omics roadmap from pathogenesis to point-of-care : A perspective review.",
-      "authors": "Wu H, Li S, Zhang P, Su Y, Huang T.",
-      "journal": "Virulence",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/21505594.2026.2732315",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
