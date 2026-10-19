@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T04:07:22.346Z",
+  "lastUpdated": "2026-10-19T18:35:36.981Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -77,6 +77,24 @@
   "liveJobsAndInternships": [],
   "liveNewsAndUpdates": [
     {
+      "id": "epmc-42648528",
+      "title": "Clinical significance of lncRNA-miRNA axes in ischemic stroke: Diagnostic value, prognostic relevance, and therapeutic potential.",
+      "authors": "El-Sehrawy AAMA, Sapaev I, Nematov O, Turakulov R, Bayramdurdi S, Turaeva NO, Bainsal N, Bansal P, Smerat A.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121303",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42862226",
+      "title": "A Workflow for Identifying Helicase-Dependent RNA Structural Changes in Transcriptional Termination: From DMS Sequencing Analysis to Reporter Assay-Based Validation.",
+      "authors": "Das S, Wang TY, Aviran S, Tran EJ.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5571-9_5",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42379463",
       "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
       "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
@@ -128,24 +146,6 @@
       "journal": "New Microbes New Infect",
       "pubYear": "2026",
       "doiUrl": "https://doi.org/10.1016/j.nmni.2026.101860",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-IND609550234",
-      "title": "Genetic Diversity and Motif Analysis of Coat Protein Gene of Potato Leafroll Virus Isolates across Agroclimatic Regions of Bihar, India",
-      "authors": "Ranjan T, Rajani K, Kumar R, Ansar M, Kumar V, Kumar M, Shamim M, Kumar A, Mohanty A.",
-      "journal": "Potato research.",
-      "pubYear": "2026",
-      "doiUrl": "https://europepmc.org/article/MED/IND609550234",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42830996",
-      "title": "Chest wall pain as a late effect following radiotherapy for breast cancer: A systematic review of prevalence and risk factors.",
-      "authors": "Durrant L, Harris R, Atkinson C, Faithfull S.",
-      "journal": "Tech Innov Patient Support Radiat Oncol",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.tipsro.2026.100433",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
