@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T18:35:36.981Z",
+  "lastUpdated": "2026-10-20T04:19:42.572Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,6 +95,24 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42735557",
+      "title": "Explainable AI-based breath metabolite profiling for early lung cancer detection.",
+      "authors": "Ghatage V, V S, Ghosh C, Patil RR.",
+      "journal": "Biosens Bioelectron",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.bios.2026.119214",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42734444",
+      "title": "Anesthesia inhalation agent sevoflurane induces perioperative cognitive impairment: Apelin/early growth response 1 axis induces ferritinophagy and exacerbates ferroptosis.",
+      "authors": "Li X, Zhang X, Xu L, Liu Y.",
+      "journal": "Med Gas Res",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.4103/mgr.medgasres-d-25-00173",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42379463",
       "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
       "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
@@ -122,30 +140,12 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42850723",
-      "title": "A bibliometric analysis of trace elements and diabetic kidney disease: scientific hotspots and research evolution.",
-      "authors": "Sun X, Jiang Y, Wang H, Wang Z, Sun W, Liu Y.",
-      "journal": "Ren Fail",
+      "id": "epmc-42889819",
+      "title": "Artificial intelligence in pharmacy and pharmaceutical sciences: Research output, trends, and thematic priorities - A descriptive analysis of web of science-indexed publications (2010-2025). ",
+      "authors": "Salman B, Mohamed A, Shaikh AJ, Al-Mahrizi A, Al-Shidi R, Al-Farsi S, Hashish N, Al-Kiyumi Z, Ayaad O, Al-Baimani K.",
+      "journal": "Explor Res Clin Soc Pharm",
       "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1080/0886022x.2026.2736897",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42835776",
-      "title": "Interferon gamma and inflammatory response genes by weighted gene co-expression network analysis reveal significant associations with severe dengue infection in India.",
-      "authors": "Shamim U, Arora S, Maurya R, Soni J, Shukla R, Mehta P, Tarai B, Budhiraja S, Pandey R.",
-      "journal": "New Microbes New Infect",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.nmni.2026.101855",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42835315",
-      "title": "&lt;i&gt;Staphylococcus aureus&lt;/i&gt; in bovine intramammary infections: A global systematic review and meta-analysis of prevalence and antimicrobial resistance patterns.",
-      "authors": "Ahmed MJ, Rahman MA, Chalise R, Bhandari P, Bhuiyan MIH, Hossain MI, Kaderi IJ, Rahi MAI, Hossain D.",
-      "journal": "New Microbes New Infect",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.nmni.2026.101860",
+      "doiUrl": "https://doi.org/10.1016/j.rcsop.2026.100852",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
