@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T04:09:22.661Z",
+  "lastUpdated": "2026-10-21T16:57:38.990Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,6 +95,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42900001",
+      "title": "BCL10 deficiency: Long-term immune reconstitution following hematopoietic stem cell transplantation. ",
+      "authors": "Ali M, Alazami AM, Al-Mousa H.",
+      "journal": "J Hum Immun",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.70962/jhi.20260126",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42862226",
       "title": "A Workflow for Identifying Helicase-Dependent RNA Structural Changes in Transcriptional Termination: From DMS Sequencing Analysis to Reporter Assay-Based Validation.",
       "authors": "Das S, Wang TY, Aviran S, Tran EJ.",
@@ -137,15 +146,6 @@
       "journal": "Clin Chim Acta",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1016/j.cca.2026.121203",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42288272",
-      "title": "Multi-omic biomarkers in cardiovascular disease: Discovery to clinical translation.",
-      "authors": "AlRamadneh TN, Abdulsahib WK, Gajjar TB, Hanumanthayya M, Shukla SK, Panigrahi R, Bainsal N, Rizaev J, Abduvoyitov B, Polatova D.",
-      "journal": "Clin Chim Acta",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121182",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
