@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T16:38:59.458Z",
+  "lastUpdated": "2026-10-21T04:09:22.661Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -77,6 +77,15 @@
   "liveJobsAndInternships": [],
   "liveNewsAndUpdates": [
     {
+      "id": "epmc-42772095",
+      "title": "Multispectroscopic investigations of the binding interaction between microplastics and actin protein.",
+      "authors": "Ghosal S, Bag S, Burman MD, Bhowmik S.",
+      "journal": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.saa.2026.128805",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42648528",
       "title": "Clinical significance of lncRNA-miRNA axes in ischemic stroke: Diagnostic value, prognostic relevance, and therapeutic potential.",
       "authors": "El-Sehrawy AAMA, Sapaev I, Nematov O, Turakulov R, Bayramdurdi S, Turaeva NO, Bainsal N, Bansal P, Smerat A.",
@@ -137,15 +146,6 @@
       "journal": "Clin Chim Acta",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1016/j.cca.2026.121182",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42889819",
-      "title": "Artificial intelligence in pharmacy and pharmaceutical sciences: Research output, trends, and thematic priorities - A descriptive analysis of web of science-indexed publications (2010-2025). ",
-      "authors": "Salman B, Mohamed A, Shaikh AJ, Al-Mahrizi A, Al-Shidi R, Al-Farsi S, Hashish N, Al-Kiyumi Z, Ayaad O, Al-Baimani K.",
-      "journal": "Explor Res Clin Soc Pharm",
-      "pubYear": "2026",
-      "doiUrl": "https://doi.org/10.1016/j.rcsop.2026.100852",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
