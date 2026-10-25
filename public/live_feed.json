@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T15:41:47.526Z",
+  "lastUpdated": "2026-10-25T04:06:43.555Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -131,21 +131,21 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42575332",
+      "title": "Ethnopharmacological insights into ayurvedic and siddha medicine in cancer: Phytochemicals, bhasma nanomedicine, and integrative mechanisms.",
+      "authors": "Amudha S, Enoch IVMV.",
+      "journal": "J Ethnopharmacol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.jep.2026.122282",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42379463",
       "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
       "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
       "journal": "Clin Chim Acta",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1016/j.cca.2026.121208",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42362136",
-      "title": "Quality assessment, prognostic factors, and biomarkers for brain tumor analysis: a comprehensive systematic review.",
-      "authors": "Balaji P, Devasena D.",
-      "journal": "Clin Chim Acta",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121203",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
