@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T04:06:43.555Z",
+  "lastUpdated": "2026-10-25T15:52:36.254Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,57 +95,57 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42900001",
-      "title": "BCL10 deficiency: Long-term immune reconstitution following hematopoietic stem cell transplantation.",
-      "authors": "Ali M, Alazami AM, Al-Mousa H.",
-      "journal": "J Hum Immun",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.70962/jhi.20260126",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42862226",
-      "title": "A Workflow for Identifying Helicase-Dependent RNA Structural Changes in Transcriptional Termination: From DMS Sequencing Analysis to Reporter Assay-Based Validation.",
-      "authors": "Das S, Wang TY, Aviran S, Tran EJ.",
+      "id": "epmc-42919026",
+      "title": "Development of Genome-Wide Simple Sequence Repeat Markers from Whole-Genome Sequence of Mungbean (Vigna radiata).",
+      "authors": "Palaniswamy R, Mohanavel V, Rajagopalan VR, Rajasekaran R, Muthurajan R, Manickam S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5571-9_5",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_20",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42735557",
-      "title": "Explainable AI-based breath metabolite profiling for early lung cancer detection.",
-      "authors": "Ghatage V, V S, Ghosh C, Patil RR.",
-      "journal": "Biosens Bioelectron",
+      "id": "epmc-42919031",
+      "title": "Development and Applications of Single Nucleotide Polymorphisms (SNPs) for the Improvement of Fiber Traits in Cotton Crops.",
+      "authors": "Natarajan TP, Murugesan G, Sivakumar JS, Gurusamy D, Mogilicherla K, Krishnan V.",
+      "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.bios.2026.119214",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_25",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42734444",
-      "title": "Anesthesia inhalation agent sevoflurane induces perioperative cognitive impairment: Apelin/early growth response 1 axis induces ferritinophagy and exacerbates ferroptosis.",
-      "authors": "Li X, Zhang X, Xu L, Liu Y.",
-      "journal": "Med Gas Res",
+      "id": "epmc-42919027",
+      "title": "SNP Discovery of 3 K RICE Panel for Specific Traits.",
+      "authors": "Rajagopalan VR, Sivabharathi RC, Muthurajan R, Manickam S.",
+      "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.4103/mgr.medgasres-d-25-00173",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_21",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42575332",
-      "title": "Ethnopharmacological insights into ayurvedic and siddha medicine in cancer: Phytochemicals, bhasma nanomedicine, and integrative mechanisms.",
-      "authors": "Amudha S, Enoch IVMV.",
-      "journal": "J Ethnopharmacol",
+      "id": "epmc-42919024",
+      "title": "Development of SNPs for Crop Improvement.",
+      "authors": "Gorai S, Mondal A, Imtiyaz M, Chandana B, Samanta S, Umesh Kumar V, Hazra S, Maji A.",
+      "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.jep.2026.122282",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_18",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42379463",
-      "title": "Diagnostic biomarkers, prognostic signatures, and therapeutic resistance: shedding light on the dual role of autophagy in glioblastoma.",
-      "authors": "Aldiqs M, Aliev M, Gajjar TB, Mangaraj S, Alhasso B, Urazbaeva D, Gulsara R, Tailor NK.",
-      "journal": "Clin Chim Acta",
+      "id": "epmc-42919017",
+      "title": "Exploring the Role of Single Nucleotide Polymorphisms in Modern Plant Genomic Research.",
+      "authors": "Subashini R, Jebasingh T.",
+      "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121208",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_11",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919019",
+      "title": "Development and Application of Restriction Fragment Length Polymorphism (RFLP) for the Improvement of Cotton Crops.",
+      "authors": "Binu S, Sivakumar JS, Krishnan V, Mogilicherla K, Gurusamy D.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_13",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
