@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T18:12:20.374Z",
+  "lastUpdated": "2026-10-29T05:14:04.610Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -75,5 +75,78 @@
     }
   ],
   "liveJobsAndInternships": [],
-  "liveNewsAndUpdates": []
+  "liveNewsAndUpdates": [
+    {
+      "id": "epmc-42772095",
+      "title": "Multispectroscopic investigations of the binding interaction between microplastics and actin protein.",
+      "authors": "Ghosal S, Bag S, Burman MD, Bhowmik S.",
+      "journal": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.saa.2026.128805",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42648528",
+      "title": "Clinical significance of lncRNA-miRNA axes in ischemic stroke: Diagnostic value, prognostic relevance, and therapeutic potential.",
+      "authors": "El-Sehrawy AAMA, Sapaev I, Nematov O, Turakulov R, Bayramdurdi S, Turaeva NO, Bainsal N, Bansal P, Smerat A.",
+      "journal": "Clin Chim Acta",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1016/j.cca.2026.121303",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919026",
+      "title": "Development of Genome-Wide Simple Sequence Repeat Markers from Whole-Genome Sequence of Mungbean (Vigna radiata).",
+      "authors": "Palaniswamy R, Mohanavel V, Rajagopalan VR, Rajasekaran R, Muthurajan R, Manickam S.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_20",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919031",
+      "title": "Development and Applications of Single Nucleotide Polymorphisms (SNPs) for the Improvement of Fiber Traits in Cotton Crops.",
+      "authors": "Natarajan TP, Murugesan G, Sivakumar JS, Gurusamy D, Mogilicherla K, Krishnan V.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_25",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919027",
+      "title": "SNP Discovery of 3 K RICE Panel for Specific Traits.",
+      "authors": "Rajagopalan VR, Sivabharathi RC, Muthurajan R, Manickam S.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_21",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919024",
+      "title": "Development of SNPs for Crop Improvement.",
+      "authors": "Gorai S, Mondal A, Imtiyaz M, Chandana B, Samanta S, Umesh Kumar V, Hazra S, Maji A.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_18",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919017",
+      "title": "Exploring the Role of Single Nucleotide Polymorphisms in Modern Plant Genomic Research.",
+      "authors": "Subashini R, Jebasingh T.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_11",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42919019",
+      "title": "Development and Application of Restriction Fragment Length Polymorphism (RFLP) for the Improvement of Cotton Crops.",
+      "authors": "Binu S, Sivakumar JS, Krishnan V, Mogilicherla K, Gurusamy D.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_13",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    }
+  ]
 }
