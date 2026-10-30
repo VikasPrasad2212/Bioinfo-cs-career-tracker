@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T05:13:33.863Z",
+  "lastUpdated": "2026-10-30T18:00:37.411Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,57 +95,57 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42919026",
-      "title": "Development of Genome-Wide Simple Sequence Repeat Markers from Whole-Genome Sequence of Mungbean (Vigna radiata).",
-      "authors": "Palaniswamy R, Mohanavel V, Rajagopalan VR, Rajasekaran R, Muthurajan R, Manickam S.",
+      "id": "epmc-42955692",
+      "title": "Large Language Models in RNA-RNA Interaction Prediction. ",
+      "authors": "Verma PK, Ganesh S, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_20",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_25",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42919031",
-      "title": "Development and Applications of Single Nucleotide Polymorphisms (SNPs) for the Improvement of Fiber Traits in Cotton Crops.",
-      "authors": "Natarajan TP, Murugesan G, Sivakumar JS, Gurusamy D, Mogilicherla K, Krishnan V.",
+      "id": "epmc-42955691",
+      "title": "Tutorial: End-to-End Deep Learning Pipeline for RNA-RNA Interaction Prediction. ",
+      "authors": "Harithanush S, Chokalingam P, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_25",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_24",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42919027",
-      "title": "SNP Discovery of 3 K RICE Panel for Specific Traits.",
-      "authors": "Rajagopalan VR, Sivabharathi RC, Muthurajan R, Manickam S.",
+      "id": "epmc-42955690",
+      "title": "Protocols for RNA-RNA Interaction Dataset Construction and Model Training. ",
+      "authors": "Ramanathan V, Verma PK, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_21",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_23",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42919024",
-      "title": "Development of SNPs for Crop Improvement.",
-      "authors": "Gorai S, Mondal A, Imtiyaz M, Chandana B, Samanta S, Umesh Kumar V, Hazra S, Maji A.",
+      "id": "epmc-42955689",
+      "title": "RNA-RNA Interaction Prediction in Therapeutics and Drug Discovery. ",
+      "authors": "Venkat KR, Kanchanapalli L, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_18",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_22",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42919017",
-      "title": "Exploring the Role of Single Nucleotide Polymorphisms in Modern Plant Genomic Research.",
-      "authors": "Subashini R, Jebasingh T.",
+      "id": "epmc-42955688",
+      "title": "Benchmarking, Reproducibility, and FAIR Pipelines for RNA-RNA Interaction Prediction. ",
+      "authors": "Vaddanam TS, Venkat KR, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_11",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_21",
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
-      "id": "epmc-42919019",
-      "title": "Development and Application of Restriction Fragment Length Polymorphism (RFLP) for the Improvement of Cotton Crops.",
-      "authors": "Binu S, Sivakumar JS, Krishnan V, Mogilicherla K, Gurusamy D.",
+      "id": "epmc-42955687",
+      "title": "Explainable Artificial Intelligence for RNA-RNA Interaction Models. ",
+      "authors": "Ganesh S, Parthiban SJ, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5663-1_13",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_20",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
