@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T04:57:42.551Z",
+  "lastUpdated": "2026-10-31T17:05:27.195Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,8 +95,26 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-42961739",
+      "title": "Design Space Exploration of Genetic Circuits Using the UNFOLD Framework. ",
+      "authors": "Chakraborty D, Rengaswamy R, Raman K.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5583-2_5",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-42961736",
+      "title": "Employing Protein Language Models to Predict TCR-Peptide-MHC Binding: A Comprehensive Methods Guide. ",
+      "authors": "Yadav S, Vora DS, Dhanjal JK.",
+      "journal": "Methods Mol Biol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/978-1-0716-5583-2_2",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42955692",
-      "title": "Large Language Models in RNA-RNA Interaction Prediction. ",
+      "title": "Large Language Models in RNA-RNA Interaction Prediction.",
       "authors": "Verma PK, Ganesh S, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
@@ -105,7 +123,7 @@
     },
     {
       "id": "epmc-42955691",
-      "title": "Tutorial: End-to-End Deep Learning Pipeline for RNA-RNA Interaction Prediction. ",
+      "title": "Tutorial: End-to-End Deep Learning Pipeline for RNA-RNA Interaction Prediction.",
       "authors": "Harithanush S, Chokalingam P, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
@@ -114,7 +132,7 @@
     },
     {
       "id": "epmc-42955690",
-      "title": "Protocols for RNA-RNA Interaction Dataset Construction and Model Training. ",
+      "title": "Protocols for RNA-RNA Interaction Dataset Construction and Model Training.",
       "authors": "Ramanathan V, Verma PK, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
@@ -123,29 +141,11 @@
     },
     {
       "id": "epmc-42955689",
-      "title": "RNA-RNA Interaction Prediction in Therapeutics and Drug Discovery. ",
+      "title": "RNA-RNA Interaction Prediction in Therapeutics and Drug Discovery.",
       "authors": "Venkat KR, Kanchanapalli L, Varadarajan S.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_22",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42955688",
-      "title": "Benchmarking, Reproducibility, and FAIR Pipelines for RNA-RNA Interaction Prediction. ",
-      "authors": "Vaddanam TS, Venkat KR, Varadarajan S.",
-      "journal": "Methods Mol Biol",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_21",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42955687",
-      "title": "Explainable Artificial Intelligence for RNA-RNA Interaction Models. ",
-      "authors": "Ganesh S, Parthiban SJ, Varadarajan S.",
-      "journal": "Methods Mol Biol",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_20",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
