@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T17:48:43.724Z",
+  "lastUpdated": "2026-11-02T05:26:19.543Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -96,7 +96,7 @@
     },
     {
       "id": "epmc-42961739",
-      "title": "Design Space Exploration of Genetic Circuits Using the UNFOLD Framework. ",
+      "title": "Design Space Exploration of Genetic Circuits Using the UNFOLD Framework.",
       "authors": "Chakraborty D, Rengaswamy R, Raman K.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
@@ -105,7 +105,7 @@
     },
     {
       "id": "epmc-42961736",
-      "title": "Employing Protein Language Models to Predict TCR-Peptide-MHC Binding: A Comprehensive Methods Guide. ",
+      "title": "Employing Protein Language Models to Predict TCR-Peptide-MHC Binding: A Comprehensive Methods Guide.",
       "authors": "Yadav S, Vora DS, Dhanjal JK.",
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
