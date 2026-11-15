@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T05:49:04.065Z",
+  "lastUpdated": "2026-11-15T18:41:13.392Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,6 +95,15 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-43033407",
+      "title": "Integrative Genomic and Stem Cell Frameworks for Variant-to-Function Discovery in Autism Spectrum Disorder: A Narrative Review. ",
+      "authors": "Uddin J, Singh R, Nair C, Rahamathulla M, Ahmed MM, Nafiz IH, Merghani TH, Alawad AO, Dwivedi D, Das U.",
+      "journal": "Dev Neurobiol",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1002/dneu.70072",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42961739",
       "title": "Design Space Exploration of Genetic Circuits Using the UNFOLD Framework.",
       "authors": "Chakraborty D, Rengaswamy R, Raman K.",
@@ -137,15 +146,6 @@
       "journal": "Methods Mol Biol",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_23",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42955689",
-      "title": "RNA-RNA Interaction Prediction in Therapeutics and Drug Discovery.",
-      "authors": "Venkat KR, Kanchanapalli L, Varadarajan S.",
-      "journal": "Methods Mol Biol",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/978-1-0716-5567-2_22",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
