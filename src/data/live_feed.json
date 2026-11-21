@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T19:51:15.507Z",
+  "lastUpdated": "2026-11-21T06:33:53.712Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -77,6 +77,15 @@
   "liveJobsAndInternships": [],
   "liveNewsAndUpdates": [
     {
+      "id": "epmc-43061281",
+      "title": "Modern cell-based assays for biomedical research: from conventional methods to AI-driven high content analysis.",
+      "authors": "Venkataramaiah C.",
+      "journal": "In Vitro Model",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/s44164-026-00162-6",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42837718",
       "title": "Fusion-CapsNet: A transfer-driven capsule network trained on fused features and generative ai augmentation for strabismus detection.",
       "authors": "Gaikwad PL, Tambe SB.",
@@ -137,15 +146,6 @@
       "journal": "Comput Biol Chem",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109373",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42822162",
-      "title": "A Mathematical Investigation of Reverse Sombor indices for Anti-Hypertensive drugs using Entropy and WASPAS method.",
-      "authors": "S G, K D.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109420",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
