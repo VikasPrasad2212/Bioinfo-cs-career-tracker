@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T06:33:53.712Z",
+  "lastUpdated": "2026-11-21T18:56:51.204Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -75,78 +75,5 @@
     }
   ],
   "liveJobsAndInternships": [],
-  "liveNewsAndUpdates": [
-    {
-      "id": "epmc-43061281",
-      "title": "Modern cell-based assays for biomedical research: from conventional methods to AI-driven high content analysis.",
-      "authors": "Venkataramaiah C.",
-      "journal": "In Vitro Model",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1007/s44164-026-00162-6",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42837718",
-      "title": "Fusion-CapsNet: A transfer-driven capsule network trained on fused features and generative ai augmentation for strabismus detection.",
-      "authors": "Gaikwad PL, Tambe SB.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109473",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42828974",
-      "title": "Bulk and single-cell transcriptomics identify tumor-specific epithelial PSAT1 as a ferroptosis-associated therapeutic target in cervical cancer.",
-      "authors": "Tabassum Z, Hadi K, Sudheer A, Donakonda S.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109447",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42828973",
-      "title": "Algorand-proof-of-stake blockchain based-digitalized healthcare data security using protected smart contract and behavioural analyzation.",
-      "authors": "Bala Gayathri D, Sangeetha D.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109434",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42826577",
-      "title": "Machine learning-guided discovery of a novel natural CDK7 inhibitor for triple-negative breast cancer.",
-      "authors": "Kumar CB, Pears GS.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109466",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42826576",
-      "title": "EXPSO: A PSO-based ensemble gene expression classifier for plant species using histone and chromatin accessiblity data.",
-      "authors": "Sowmya HS, Murmu S, Mishra DC, Archak S.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109426",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42826575",
-      "title": "AI-driven transcriptomics for neurodegenerative disease research: A systematic review.",
-      "authors": "Tripathi A, Yadav AK, Kumar N.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109448",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42826572",
-      "title": "In silico screening of phytochemical inhibitors against Agrobacterium proteins using ADMET prediction, molecular docking, molecular dynamics simulation, and in vitro antimicrobial evaluation.",
-      "authors": "Attar S, Phatake Y, Marathe R.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109373",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    }
-  ]
+  "liveNewsAndUpdates": []
 }
