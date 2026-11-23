@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T06:54:11.068Z",
+  "lastUpdated": "2026-11-23T23:39:57.830Z",
   "status": "online",
   "source": "Automated GitHub Actions Multi-Portal Sync",
   "stats": {
@@ -95,6 +95,24 @@
       "sourceDb": "Europe PMC / EMBL-EBI"
     },
     {
+      "id": "epmc-43069711",
+      "title": "Untargeted Metabolomics Profiling of Conotruncal Heart Defects Patient-Derived Fibroblasts. ",
+      "authors": "Andhela LS, Kawathe R, Oza PS, Joshi MB, Uttarilli A, Chinthakindi S.",
+      "journal": "Rapid Commun Mass Spectrom",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1002/rcm.70210",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
+      "id": "epmc-43067944",
+      "title": "Evaluation of potential anti-inflammatory activity of <i>p</i>-hydroxybenzoic acid isolated from <i>Vitex negundo</i> Linn. on LPS-induced inflammation and AP-1 activation in A549 cells. ",
+      "authors": "Patil RH, Kavya K, Naveen Kumar M, Kiran Kumar KM, Nagesh R, Babu RL, Kondaiah P.",
+      "journal": "Cytotechnology",
+      "pubYear": "2027",
+      "doiUrl": "https://doi.org/10.1007/s10616-026-01107-3",
+      "sourceDb": "Europe PMC / EMBL-EBI"
+    },
+    {
       "id": "epmc-42837718",
       "title": "Fusion-CapsNet: A transfer-driven capsule network trained on fused features and generative ai augmentation for strabismus detection.",
       "authors": "Gaikwad PL, Tambe SB.",
@@ -128,24 +146,6 @@
       "journal": "Comput Biol Chem",
       "pubYear": "2027",
       "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109466",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42826576",
-      "title": "EXPSO: A PSO-based ensemble gene expression classifier for plant species using histone and chromatin accessiblity data.",
-      "authors": "Sowmya HS, Murmu S, Mishra DC, Archak S.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109426",
-      "sourceDb": "Europe PMC / EMBL-EBI"
-    },
-    {
-      "id": "epmc-42826575",
-      "title": "AI-driven transcriptomics for neurodegenerative disease research: A systematic review.",
-      "authors": "Tripathi A, Yadav AK, Kumar N.",
-      "journal": "Comput Biol Chem",
-      "pubYear": "2027",
-      "doiUrl": "https://doi.org/10.1016/j.compbiolchem.2026.109448",
       "sourceDb": "Europe PMC / EMBL-EBI"
     }
   ]
